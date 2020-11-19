@@ -1,5 +1,0 @@
-server:
-  port: 8081
-
-logging:
-  config: ./springboot-frame/src/main/resources/logback-spring.xml
